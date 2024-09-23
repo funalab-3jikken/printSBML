@@ -11,7 +11,7 @@
         "-I./include",
         "${file}",
         "-o",
-        "${fileDirname}/helloSBML",
+        "${fileDirname}/printSBML",
         "-L./lib",
         "-Wl,--rpath",
         "-Wl,./lib",
