@@ -14,6 +14,7 @@
         "-L./lib",
         "-Wl,--rpath",
         "-Wl,./lib",
+        "-lm",
         "-lsbml"
       ],
       "options": {
